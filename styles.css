@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .hero{
 	height:20rem;
-	/* width: */
+	width:60rem;
 	display:flex;
 	justify-content: center;
 	align-items: center;
