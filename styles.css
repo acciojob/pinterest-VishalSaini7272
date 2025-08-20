@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.hero{
+	height:20rem;
+	/* width: */
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+img{
+	height:10rem;
+	width: 15rem;
+	object-fit:cover;
+	
+}
+button{
+
+	padding:5px;
+	background-color:red;
+	color: white;
+	border-radius:10px;
+	margin-left: 20px;
+}
